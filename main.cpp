@@ -23,7 +23,6 @@ int main(int argc, char** argv) {
 
     cout << "La semaine est longue." << endl;
     cout << "quand le bleu et le jaune se rencontret à l'ouest" << endl;
-    //un voyage en Chine paraît sympa si vous avancez prudemment
     return 0;
 }
 
