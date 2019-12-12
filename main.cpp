@@ -24,6 +24,7 @@ int main(int argc, char** argv) {
     cout << "La semaine est longue." << endl;
     cout << "quand le bleu et le jaune se rencontret à l'ouest" << endl;
     cout<<"jtmbb"<<endl;
+    cout<<"gabou"<<endl;
     return 0;
 }
 
